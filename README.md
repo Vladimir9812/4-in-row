@@ -1,2 +1,2 @@
-Проект представляет собой игру 4 в ряд реализованную на чистом js
+The project was implemented in native js. It is a four in row game
 ![](/read.png)
