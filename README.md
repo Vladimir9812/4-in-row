@@ -1,2 +1,5 @@
-The project was implemented in native js. It is a four in row game
+# Four in row game
+This project was implemented by using native js
+
+You can see this game in https://vladimir9812.github.io/4-in-row/
 ![](/read.png)
